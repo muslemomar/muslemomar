@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muslimomar" alt="muslimomar" /></a> </p>
 
-- 🔭 I’m currently teaching on [a Frontend Bootcamp for Re:Coded](https://www.re-coded.com/immersive-course/frontend-web-development)
+- 🔭 I’m currently teaching in a [Frontend Bootcamp for Re:Coded](https://www.re-coded.com/immersive-course/frontend-web-development)
 
 - 🌱 I’m currently learning **Microservices**
 
