@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently teaching in a [Frontend Bootcamp for Re:Coded](https://www.re-coded.com/immersive-course/frontend-web-development)
 
-- 🌱 I’m currently learning **Microservices**
-
 - 🔥 Active contributor on [**Stackoverflow**](https://stackoverflow.com/users/8731231/muslem-omar)
 
 - 💬 Ask me about **React and NodeJS**
