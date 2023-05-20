@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mislimumer@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_1c1ap0Rv5mfqp1TJO57jn6nayXWI8T9/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1vCOjkpLHE8rzlokHOf9pwAk4TGxJW_e5145ueRvTT6U/edit)
 
 - ⚡ Fun fact **I can type as fast as over 120 words per minute 😅** Here is my typing [profile](https://thetypingcat.com/user/26711) on The Typing Cat
 
