@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muslimomar&label=Profile%20views&color=0e75b6&style=flat" alt="muslemomar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muslemomar" alt="muslemomar" /></a> </p>
-
 - 🔭 I’m currently teaching in a [Frontend Bootcamp for Re:Coded](https://www.re-coded.com/immersive-course/frontend-web-development)
 
 - 🔥 Active contributor on [**Stackoverflow**](https://stackoverflow.com/users/8731231/muslem-omar)
@@ -30,8 +28,6 @@
 <h2 align="left">Support:</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muslemomar&show_icons=true&locale=en&layout=compact" alt="muslemomar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muslemomar&show_icons=true&locale=en" alt="muslemomar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muslemomar&" alt="muslemomar" /></p>
 
