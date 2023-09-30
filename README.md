@@ -2,6 +2,16 @@
 <h3 align="center">A passionate full-stack web developer with over 4+ years of experience</h3>
 <br>
 
+<div align="center">
+<a href="https://github.com/muslemomar" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/muslem-omar/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
+<br>
+
 - 🔭 I’m currently teaching at a [Frontend Bootcamp for Re:Coded](https://www.re-coded.com/immersive-course/frontend-web-development)
 
 - 🔥 Active contributor on [**Stackoverflow**](https://stackoverflow.com/users/8731231/muslem-omar)
@@ -12,11 +22,6 @@
 
 - ⚡ Fun fact **I can type as fast as over 120 words per minute 😅** Here is my typing [profile](https://thetypingcat.com/user/26711) on The Typing Cat
 
-<br>
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/muslem-omar-a53a33153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muslem-omar-a53a33153" height="30" width="40" /></a>
-</p>
 <br>
 
 <h2 align="left">Languages and Tools:</h2>
