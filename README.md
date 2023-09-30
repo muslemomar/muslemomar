@@ -26,7 +26,7 @@
 
 <h2 align="left">Tech Stack:</h2>
 <h3 align="center">
-<img src="https://github.com/muslemomar/muslemomar/blob/main/teach-stack-no-ocean.png" alt="stacks"/>
+<img src="https://github.com/muslemomar/muslemomar/blob/main/tech-stack-02.png" alt="stacks"/>
 </h3>
 <br>
 
