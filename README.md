@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muslem Omar</h1>
 <h3 align="center">A passionate full-stack web developer with over 5+ years of experience</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muslemomar&label=Profile%20views&color=0e75b6&style=flat" alt="muslemomar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muslimomar&label=Profile%20views&color=0e75b6&style=flat" alt="muslemomar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muslemomar" alt="muslemomar" /></a> </p>
 
