@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muslem Omar</h1>
 <h3 align="center">A passionate full-stack web developer with over 5+ years of experience</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muslimomar&label=Profile%20views&color=0e75b6&style=flat" alt="muslimomar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muslemomar&label=Profile%20views&color=0e75b6&style=flat" alt="muslemomar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muslimomar" alt="muslimomar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muslemomar" alt="muslemomar" /></a> </p>
 
 - 🔭 I’m currently teaching in a [Frontend Bootcamp for Re:Coded](https://www.re-coded.com/immersive-course/frontend-web-development)
 
@@ -29,11 +29,11 @@
 
 <h2 align="left">Support:</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muslimomar&show_icons=true&locale=en&layout=compact" alt="muslimomar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muslemomar&show_icons=true&locale=en&layout=compact" alt="muslemomar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muslimomar&show_icons=true&locale=en" alt="muslimomar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muslemomar&show_icons=true&locale=en" alt="muslemomar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muslimomar&" alt="muslimomar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muslemomar&" alt="muslemomar" /></p>
 
 <h2 align="left">Buy me a coffee</h2>
 
