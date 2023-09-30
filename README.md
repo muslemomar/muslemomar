@@ -17,7 +17,6 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/muslem-omar-a53a33153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muslem-omar-a53a33153" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8731231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8731231" height="30" width="40" /></a>
 </p>
 <br>
 
