@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Muslem Omar</h1>
 <h3 align="center">A passionate full-stack web developer with over 4+ years of experience</h3>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muslimomar&label=Profile%20views&color=0e75b6&style=flat" alt="muslemomar" /> </p>
-
-- 🔭 I’m currently teaching in a [Frontend Bootcamp for Re:Coded](https://www.re-coded.com/immersive-course/frontend-web-development)
+- 🔭 I’m currently teaching at a [Frontend Bootcamp for Re:Coded](https://www.re-coded.com/immersive-course/frontend-web-development)
 
 - 🔥 Active contributor on [**Stackoverflow**](https://stackoverflow.com/users/8731231/muslem-omar)
 
 - 💬 Ask me about **React, Vue and NodeJS**
 
-- 📫 How to reach me **mislimumer@gmail.com**
+- 📫 You can reach me from **mislimumer@gmail.com**
 
 - ⚡ Fun fact **I can type as fast as over 120 words per minute 😅** Here is my typing [profile](https://thetypingcat.com/user/26711) on The Typing Cat
 
