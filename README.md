@@ -9,7 +9,7 @@
 
 - 🔥 Active contributor on [**Stackoverflow**](https://stackoverflow.com/users/8731231/muslem-omar)
 
-- 💬 Ask me about **React and NodeJS**
+- 💬 Ask me about **React, Vue and NodeJS**
 
 - 📫 How to reach me **mislimumer@gmail.com**
 
