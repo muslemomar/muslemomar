@@ -14,13 +14,13 @@
 
 - 🔭 I’m currently teaching at a [Frontend Bootcamp for Re:Coded](https://www.re-coded.com/immersive-course/frontend-web-development)
 
-- 🔥 Active contributor on [**Stackoverflow**](https://stackoverflow.com/users/8731231/muslem-omar)
+- 🔥 Active [**contributor**](https://stackoverflow.com/users/8731231/muslem-omar) on Stackoverflow
 
 - 💬 Ask me about **React, Vue and NodeJS**
 
 - 📫 You can reach me from **mislimumer@gmail.com**
 
-- ⚡ Fun fact **I can type as fast as over 120 words per minute 😅** Here is my typing [profile](https://thetypingcat.com/user/26711) on The Typing Cat
+- ⚡ Fun fact **I can type as fast as over [120 words per minute](https://thetypingcat.com/user/26711) 😅**
 
 <br>
 
@@ -29,12 +29,6 @@
 <img src="https://github.com/muslemomar/muslemomar/blob/main/tech-stack-02.png" alt="stacks"/>
 </h3>
 <br>
-
-<h2 align="left">Stack Overflow Profile:</h2>
-
-[![Muslem Omar StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8731231&layout=compact)](https://stackoverflow.com/users/8731231) </p>
-<br>
-
 <h2 align="left">Support:</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muslemomar&show_icons=true&locale=en&layout=compact" alt="muslemomar" /></p>
