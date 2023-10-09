@@ -20,8 +20,6 @@
 
 - 📫 You can reach me from **mislimumer@gmail.com**
 
-- ⚡ Fun fact **I can type as fast as over [120 words per minute](https://thetypingcat.com/user/26711) 😅**
-
 <br>
 
 <h2 align="left">Tech Stack:</h2>
