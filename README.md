@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muslem Omar</h1>
-<p align="center">Dedicated Full-Stack Web Developer with 4+ years of expertise in MERN stack development. Proven track record in building scalable web applications, leading cross-functional teams, and implementing innovative solutions. Strong advocate for Agile methodologies and a collaborative team player.</p>
+<p align="center">Dedicated Full-Stack Web Developer experienced in MERN stack development. Proven track record in building scalable web applications, leading cross-functional teams, and implementing innovative solutions. Strong advocate for Agile methodologies and a collaborative team player.</p>
 <br>
 
 <div align="center">
