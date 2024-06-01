@@ -15,7 +15,7 @@
 </div>  
 <br>
 
-- 🔭 I’m currently teaching at a [Frontend Bootcamp for Re:Coded](https://www.re-coded.com/immersive-course/frontend-web-development)
+- 🔭 I’m currently teaching at a [Full-stack Bootcamp for Re:Coded](https://www.re-coded.com/bootcamps/fullstack-bootcamp)
 
 - 🔥 Active [**contributor**](https://stackoverflow.com/users/8731231/muslem-omar) on Stackoverflow
 
