@@ -15,13 +15,11 @@
 </div>  
 <br>
 
-- 🔭 I’m currently teaching at a [Full-stack Bootcamp for Re:Coded](https://www.re-coded.com/bootcamps/fullstack-bootcamp)
-
 - 🔥 Active [**contributor**](https://stackoverflow.com/users/8731231/muslem-omar) on Stackoverflow
 
 - 💬 Ask me about **React, Vue and NodeJS**
 
-- 📫 You can reach me from **mislimumer@gmail.com**
+- 📫 You can reach me from **muslemomar50@gmail.com**
 
 <br>
 
